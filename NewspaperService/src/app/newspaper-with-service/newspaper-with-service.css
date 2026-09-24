@@ -1,0 +1,41 @@
+*{
+  margin-left: 1%;
+}
+
+.valid-field {
+  border: 10px solid rgb(95, 183, 95);
+}
+
+.invalid-field {
+  border: 10px solid rgb(255, 255, 126);
+}
+
+.invalid-touched{
+  background-color: rgb(251, 112, 112) !important;
+}
+
+.article-form {
+  width: 50%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h2{
+  margin-left: 3%;
+  margin-top: 2%;
+}
+
+.button-group {
+  margin-top: 2%;
+}
+
+.articles-list {
+  margin-top: 2%;
+  max-width: 95%;
+}
+
+.article-details {
+  margin-left: 2%;
+  margin-top: 2%;
+  max-width: 95%;
+}
